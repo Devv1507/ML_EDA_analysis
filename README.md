@@ -1,2 +1,2 @@
 # ML_EDA_analysis
-Basis for Exploratory Data Analysis and Machine Learning models for continuous variables designed in Python.
+Basis of Exploratory Data Analysis (EDA) and comparation of Machine Learning models for continuous variables designed in Python.
